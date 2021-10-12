@@ -23,9 +23,9 @@
 //const lastName = prompt('Введите фамилию')
 //alert(firstName + ' ' + lastName)
 
-// 3 Операторы
-let currentYear = 2021
-const birthYear = 2001
+// // 3 Операторы
+// let currentYear = 2021
+// const birthYear = 2001
 
 //const age = currentYear - birthYear
 
@@ -46,13 +46,25 @@ console.log(--currentYear)
 console.log(c)*/
 
 // 4 типы данных
-const isProgrammer = true
-const name = 'Artem'
-const age = 21
-let x
-null
-console.log(typeof isProgrammer)
-console.log(typeof age)
-console.log(typeof name)
-console.log(typeof x)
-console.log(null)
+// const isProgrammer = true
+// const name = 'Artem'
+// const age = 21
+// let x
+// null
+// console.log(typeof isProgrammer)
+// console.log(typeof age)
+// console.log(typeof name)
+// console.log(typeof x)
+// console.log(null)
+
+// 5 Приоритет операторов
+// const fullAge = 20
+// const birthYear = 2001
+// const currentYear = 2021
+//
+//
+// const isFullAge = currentYear - birthYear >= fullAge
+//
+// console.log(isFullAge)
+//
+// //https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
