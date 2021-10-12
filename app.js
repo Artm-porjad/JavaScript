@@ -1,10 +1,11 @@
-const lastName = 'Porjadin'
-let age = 20
+// 1 переменные
+const firstName = 'Artem'
+const age = 20
 
 const isProgrammer = true
 
-cons _private = 'private'
-cons $ = 'private'
+const _private = 'private'
+const $ = 'private'
 
 // const if = 'mkef' error
 
@@ -14,3 +15,10 @@ const withNum5 = '5'
 name = 'Tyoma'
 
 console.log(isProgrammer)
+
+// 2 Мутирование
+//console.log('Имя человека: ' + firstName + ', возраст человека ' + age)
+//alert('Имя человека: ' + firstName + ', возраст человека ' + age)
+
+const lastName = prompt('Введите фамилию')
+alert(firstName + ' ' + lastName)
