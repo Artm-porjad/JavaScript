@@ -92,3 +92,17 @@ console.log(c)*/
 // }
 // Тернарное выражение
 // isReady ? console.log('Vse gotovo') : console.log('Vse ne gotovo')
+
+// // 7 Функции
+//
+// function calculateAge(year){
+//     return 2021 - year
+// }
+//
+// function logInfoAbout(name,year){
+//     const age = calculateAge(year)
+//     age >0 ? console.log('Человек по имени ' + name + ' сейчас имеет возрвст ' + age) : console.log('Это уже будущее')
+// }
+//
+// logInfoAbout('Artem', 2001)
+// logInfoAbout('Andrey', 2031)
