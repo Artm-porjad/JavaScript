@@ -68,3 +68,27 @@ console.log(c)*/
 // console.log(isFullAge)
 //
 // //https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+
+// const courseStatus = 'pending' // ready fail pending
+//
+// if (courseStatus === 'ready'){
+//     console.log('курс готов')
+// } else if (courseStatus === 'pending'){
+//     console.log('курс готовится')
+// }
+//
+// const num1 = 42
+// const num2 = '42'
+//
+// console.log(num1 === num2)
+//
+// const isReady = false
+//
+// if (isReady){
+//     console.log('Vse gotovo')
+// } else {
+//     console.log('Vse ne gotovo')
+// }
+// Тернарное выражение
+// isReady ? console.log('Vse gotovo') : console.log('Vse ne gotovo')
