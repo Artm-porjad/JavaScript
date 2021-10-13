@@ -106,3 +106,14 @@ console.log(c)*/
 //
 // logInfoAbout('Artem', 2001)
 // logInfoAbout('Andrey', 2031)
+
+// 9 Массивы
+// const cars = ['мазда', 'мерс', 'форд']
+// console.log(cars)
+// console.log(cars[0])
+// console.log(cars[2])
+// console.log(cars.length)
+//
+// cars[0] = 'порш'
+// cars[cars.length] = 'мазда'
+// console.log(cars)
