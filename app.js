@@ -117,3 +117,33 @@ console.log(c)*/
 // cars[0] = 'порш'
 // cars[cars.length] = 'мазда'
 // console.log(cars)
+
+// 10 циклы
+// const cars = ['мазда', 'мерс', 'форд']
+// // for (let i = 0; i < cars.length; i++){
+// //     console.log(cars[i])
+// // }
+// for (let car of cars){
+//     console.log(car)
+// }
+
+// 11 объекты
+
+const person = {
+    firstName: 'Artem',
+    lastName: 'Porjadin',
+    year: 2001,
+    hasWife: false,
+    languages: ['Ru', 'En', 'De'],
+    greet: function(){
+        console.log('greet')
+    }
+}
+console.log(person.firstName)
+console.log(person['lastName'])
+const key = 'year'
+console.log(person[key])
+person.hasWife = true
+person.isProgrammer = true
+person.greet()
+console.log(person)
